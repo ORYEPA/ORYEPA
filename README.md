@@ -47,7 +47,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/ORYEPA/count.svg?"  />
+  <a href="https://andrea-peyro-portafolio.pages.dev">Portfolio</a>
 </div>
 
 ###
